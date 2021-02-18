@@ -10,5 +10,5 @@ variable "prefix" {
 
 variable "ssh-source-address" {
   type    = string
-  default = "*"
+  default = "31.16.77.14/32"
 }
